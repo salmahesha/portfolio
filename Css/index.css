@@ -236,12 +236,12 @@ button.bars {
         /* background:rgba(0, 0, 0, 0.067) ; */
     }
     .project{
-        padding: 10px;
-        width: 100%;
+        padding: 10px;    
         height: 420px;
         box-shadow: 0 0 10px 1px rgba(0,0,0,0.3);
         border-radius: 10px;
         background-color: #a9d6e591;
+        margin:10px ;
         overflow: hidden;
         .project-details{
             font-family: 'Times New Roman', Times, serif;
