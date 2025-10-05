@@ -188,9 +188,6 @@
   display: flex;
   flex-wrap: wrap;
 }
-.nav-content .text-header{
-  /* width: 5%; */
-}
 .nav-content .links{
   width: 80%;
   ul{
@@ -198,7 +195,6 @@
     justify-content: center;
     gap: 30px;
     padding: 0;
-    /* background: red; */
 
   }
 
